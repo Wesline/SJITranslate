@@ -1,12 +1,3 @@
-
-from translate import Translator
-trad = Translator(from_lang="fr",to_lang="en")
-result = trad.translate("Ivana est bien")
-print(result)
-
-
-
-
 def ChoixNonDisponible():
     Choix = input(
         "7777. Menu principal \n"
