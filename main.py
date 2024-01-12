@@ -1,3 +1,4 @@
+from translate import Translator
 def ChoixNonDisponible():
     Choix = input(
         "7777. Menu principal \n"
